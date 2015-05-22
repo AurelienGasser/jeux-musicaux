@@ -5,4 +5,4 @@ Ouvrez le fichier avec votre navigateur
 
 ### Jeux
 
-- [intervalles.html]intervalles.html): Pour apprendre les intervalles entre les notes
+- [intervalles.html](intervalles.html): Pour apprendre les intervalles entre les notes

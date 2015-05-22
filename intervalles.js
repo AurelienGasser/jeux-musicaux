@@ -9,8 +9,8 @@
 */
 
 // Options
-var DURATION_MIN = 3; // Le nombre de minutes pendant lesquelles vous souhaitez jouer
-var LANG = "US" // La langue utilisée pour les notes (US/FR/BOTH)
+var DURATION_MIN = 3; // Durée du jeu en minutes
+var LANG = "US"       // Langue utilisée pour les notes. Ex: US = A; FR = La; BOTH = La (A)
 // Fin des options
 
 var inFrench =  ['La'    , 'Si'    , 'Do'    , 'Ré'    , 'Mi'    , 'Fa'    , 'Sol'    ];

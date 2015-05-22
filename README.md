@@ -1,3 +1,8 @@
+### Comment jouer ? 
+
+Clic droit sur l'un des fichiers HTML ci-dessous: Enregistrer Sous. 
+Ouvrez le fichier avec votre navigateur
+
 ### Jeux
 
-- [intervalles](raw/master/intervalles.html): Pour apprendre les intervalles entre les notes
+- [intervalles.html]intervalles.html): Pour apprendre les intervalles entre les notes

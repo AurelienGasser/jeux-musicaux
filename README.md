@@ -8,6 +8,7 @@ Copiez/coller simplement l'un des fichiers dans la console de votre navigateur p
 
 --- 
 
-Jeux:
+Jeux
+-
 
 - **intervalles.js**: Apprendre les intervalles entre les notes

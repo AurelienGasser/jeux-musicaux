@@ -1,12 +1,9 @@
-Jeux en JavaScript pour s'entraîner à l'harmonie musicale
---
+## Jeux en JavaScript pour s'entraîner à l'harmonie musicale
 
-HowTo 
----
+### HowTo 
 
-Copiez/coller simplement l'un des fichiers dans la console de votre navigateur pour jouer!
+Copiez/collez  l'un des fichiers dans la console de votre navigateur pour jouer
 
-Jeux
----
+### Jeux
 
 - **intervalles.js**: Apprendre les intervalles entre les notes

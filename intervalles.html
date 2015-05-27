@@ -59,7 +59,9 @@ while (true)
 if (played > 0) {
 	var secondsPerQuestion = Math.round(1.0 * elapsed / played) / 1000;
 	var percent = Math.round(100 * score / played);
-	alert(lastAnswer)
+	if (lastAnswer) {
+		alert(lastAnswer);
+	}
 	alert("Score final: " + score + "/" + played + ' (' + percent + '% de juste)' + "\n\n" +
 		secondsPerQuestion + 'sec per question');
 }
